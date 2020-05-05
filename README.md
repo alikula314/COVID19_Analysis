@@ -1,4 +1,4 @@
-# COVID19_Analyse
+# COVID19_Analysis
 Data Analysis of COVID-19 : Italy-Turkey-Iran Comparison
 The case data I use in this study :https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
 
